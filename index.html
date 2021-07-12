@@ -1,13 +1,25 @@
 <html>
 	<head>
-		<script>
-			getText("keys.json");
-
-			async function getText(file) {
-			  	const response = await fetch(file);
-    			const json = await response.json();
-			  	console.log(json.keys);
-			}
-		</script>
+		<script src="index.js"></script>
+		<link rel="stylesheet" href="style.css">
 	</head>
+	<body>
+		<div id="keys">
+			<p id="c">C</p>
+			<p id="cs">C#</p>
+			<p id="db">Db</p>
+			<p id="d">D</p>
+			<p id="eb">Eb</p>
+			<p id="e">E</p>
+			<p id="f">F</p>
+			<p id="fs">F#</p>
+			<p id="gb">Gb</p>
+			<p id="g">G</p>
+			<p id="ab">Ab</p>
+			<p id="a">A</p>
+			<p id="bb">Bb</p>
+			<p id="b">B</p>
+		</div>
+		<p id="music"></p>
+	</body>
 </html>

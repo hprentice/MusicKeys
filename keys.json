@@ -1,0 +1,74 @@
+{
+	"keys": [
+		{
+			"key" : "C",
+		 	"notes" : "C D E F G A B",
+		 	"chords" : "C Dm Em F G Am Bdim"
+		},
+		{
+			"key" : "C#",
+			"notes" : "C# D# E# F# G# A# B#",
+			"chords" : "C# D#m E#m F# G# A#m B#dim"
+		},
+		{
+			"key" : "Db",
+			"notes" : "Db Eb F Gb Ab Bb C",
+			"chords" : "Db Ebm Fm Gb Ab Bbm Cdim"
+		},
+		{
+			"key" : "D",
+			"notes" : "D E F# G A B C#",
+			"chords" : "D Em F#m G A Bm C#dim"
+		},
+		{
+			"key" : "Eb",
+			"notes" : "Eb F G Ab Bb C D",
+			"chords" : "Eb Fm Gm Ab Bb Cm Ddim"
+		},
+		{
+			"key" : "E",
+			"notes" : "E F# G# A B C# D#",
+			"chords" : "E F#m G#m A B C#m D#dim"
+		},
+		{
+			"key" : "F",
+			"notes" : "F G A Bb C D E",
+			"chords" : "F Gm Am Bb C Dm Edim"
+		},
+		{
+			"key" : "F#",
+			"notes" : "F# G# A# B C# D# E#",
+			"chords" : "F# G#m A#m B C# D#m E#dim"
+		},
+		{
+			"key" : "Gb",
+			"notes" : "Gb Ab Bb Cb Db Eb F",
+			"chords" : "Gb Abm Bbm Cb Db Ebm Fdim"
+		},
+		{
+			"key" : "G",
+			"notes" : "G A B C D E F#",
+			"chords" : "G Am Bm C D Em F#dim"
+		},
+		{
+			"key" : "Ab",
+			"notes" : "Ab Bb C Db Eb F G",
+			"chords" : "Ab Bbm Cm Db Eb Fm Gdim"
+		},
+		{
+			"key" : "A",
+			"notes" : "A B C# D  E F# G#",
+			"chords" : "A Bm C#m D E F#m G#dim"
+		},
+		{
+			"key" : "Bb",
+			"notes" : "Bb C D Eb F G A",
+			"chords" : "Bb Cm Dm Eb F Gm Adim"
+		},
+		{
+			"key" : "B",
+			"notes" : "B C# D# E F# G# A#",
+			"chords" : "B C#m D#m E F# G#m A#dim"
+		}
+	]
+}

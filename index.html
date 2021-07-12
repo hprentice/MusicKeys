@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<script>
+			getText("keys.json");
+
+			async function getText(file) {
+			  	const response = await fetch(file);
+    			const json = await response.json();
+			  	console.log(json.keys);
+			}
+		</script>
+	</head>
+</html>
